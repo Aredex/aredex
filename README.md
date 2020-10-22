@@ -1,18 +1,14 @@
-### Alexander Cuesta
+## Alexander Cuesta
 
 <a href="https://github.com/Daggy1234">
   <img src="https://komarev.com/ghpvc/?username=aredex&style=flat-square" />
 </a>
 
----
 
 Hola 👋, Soy Alex Cuesta, Desarrollador Web Full Stack.
 Desde mi niñez me apasionó el mundo informático, las computadoras, celulares, aparatos electrónicos y todo el mundo que hay detrás de ello. Por esta razón me hice desarrollador entusiasmado por aprender e innovar en este mundo.
 
 ---
-
-<br />
-
 ### - Lenguajes y herramientas...
 
 <!-- <p align="center">
