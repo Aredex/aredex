@@ -42,7 +42,6 @@ Desde mi niñez me apasionó el mundo informático, las computadoras, celulares,
 
 [<img align="center" alt="ernestogonzalezllano | proyecto" src="https://media1.giphy.com/media/6f0lFqDbigThyTUX3O/giphy.gif" />
 
-## Hola mundo!! 🤔
 ## 💬 Contáctame.
 - 📫 Email: pacuestar@gmail.com
 - 🔔 LinedIn: [Perfil](https://www.linkedin.com/in/pacuestar/)
