@@ -44,7 +44,7 @@ Desde mi niñez me apasionó el mundo informático, las computadoras, celulares,
 
 ## 💬 Contáctame.
 - 📫 Email: pacuestar@gmail.com
-- 🔔 LinedIn: [Perfil](https://www.linkedin.com/in/pacuestar/)
+- 🔔 LinedIn: [aredex](https://www.linkedin.com/in/pacuestar/)
 
 ## ⚡ Github stats!!! 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aredex)
